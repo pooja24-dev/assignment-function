@@ -1,0 +1,13 @@
+{
+    "name": "OrderProcessorApp",
+    "version": "1.0.0",
+    "description": "Azure Function App to process orders asynchronously",
+    "main": "index.js",
+    "scripts": {
+      "start": "func start"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+  }
+  
